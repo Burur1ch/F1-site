@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🛒 Интернет-магазин ""
 
-## Getting Started
+Добро пожаловать в "ShopGalaxy" – универсальный интернет-магазин, где вы можете найти всё, что угодно! Мы предлагаем широкий ассортимент товаров, удобную навигацию и быструю доставку прямо к вашему порогу.
 
-First, run the development server:
+![Shopify Banner](https://via.placeholder.com/800x300) <!-- Замените на реальный URL изображения вашего магазина -->
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📦 Основные возможности
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Широкий выбор товаров:** от электроники до одежды, у нас есть всё, что нужно.
+- **Удобный поиск и фильтры:** быстро находите нужные товары по категориям, ценам и отзывам.
+- **Безопасные способы оплаты:** поддержка всех популярных платёжных систем.
+- **Быстрая доставка:** мгновенная обработка заказов и быстрая доставка прямо к вам домой.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌟 Особенности магазина
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Пользовательские обзоры и рейтинги**: читайте реальные отзывы и выбирайте только лучшие товары.
+- **Персонализированные рекомендации**: получите рекомендации на основе ваших предпочтений и истории покупок.
+- **Программа лояльности**: накапливайте баллы за каждую покупку и обменивайте их на скидки.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
